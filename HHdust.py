@@ -19,7 +19,7 @@ class NetFallot(CreativBO):
                 flnumb = n
 
                 #JefeEscoba = False
-                dirBO = shutil.copy("theUsr.py","C:/Users/t3fox/Desktop/IT/{}{}{}{}".format(dirhhbo,fileUName,flnumb,flfinal))
+                dirBO = shutil.copy("theUsrF.py","C:/Users/OurUser/Desktop/IT/{}{}{}{}".format(dirhhbo,fileUName,flnumb,flfinal))
                 print("\n\t----- Generando Nuevo_Usuario -----")
                 time.sleep(.5)
 
