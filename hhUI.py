@@ -27,7 +27,7 @@ class CreativBO:
         ****************************************************************
         ****************************************************************
         ________________________________________________________________
-                |HighHBOT|                |V.1.1.5|\n\n""")
+                |HighHydra|                |V.1.0.0|\n\n""")
 
         print ("----- Selecione tipo de bot -----\n\n")
         print(" > 1 - Facebook")
@@ -51,7 +51,7 @@ class CreativBO:
 
                 #Genesis code
                 Genesis = HHdust.NetFallot()
-                Genesis.farmer()
+                Genesis.farmer(26,"BlueBook/")
 
                 #lib Code
                 libs = HHdust.NetFallot()
@@ -62,7 +62,7 @@ class CreativBO:
 
                 #Genesis code
                 Genesis = HHdust.NetFallot()
-                Genesis.farmer()
+                Genesis.farmer(56,"BlueBook/")
 
                 #lib Code
                 libs = HHdust.NetFallot()
@@ -72,7 +72,7 @@ class CreativBO:
 
                 #Genesis code
                 Genesis = HHdust.NetFallot()
-                Genesis.farmer()
+                Genesis.farmer(101,"BlueBook/")
 
                 #lib Code
                 libs = HHdust.NetFallot()
@@ -95,7 +95,7 @@ class CreativBO:
 
                 #Genesis code
                 Genesis = HHdust.NetFallot()
-                Genesis.farmer()
+                Genesis.farmer(26,"BlueCam/")
 
                 #lib Code
                 libs = HHdust.NetFallot()
@@ -105,7 +105,7 @@ class CreativBO:
 
                 #Genesis code
                 Genesis = HHdust.NetFallot()
-                Genesis.farmer()
+                Genesis.farmer(56,"BlueCam/")
 
                 #lib Code
                 libs = HHdust.NetFallot()
@@ -115,7 +115,7 @@ class CreativBO:
 
                 #Genesis code
                 Genesis = HHdust.NetFallot()
-                Genesis.farmer()
+                Genesis.farmer(101,"BlueCam/")
 
                 #lib Code
                 libs = HHdust.NetFallot()
@@ -138,7 +138,7 @@ class CreativBO:
 
                 #Genesis code
                 Genesis = HHdust.NetFallot()
-                Genesis.farmer()
+                Genesis.farmer(26,"BlueBird/")
 
                 #lib Code
                 libs = HHdust.NetFallot()
@@ -148,7 +148,7 @@ class CreativBO:
 
                 #Genesis code
                 Genesis = HHdust.NetFallot()
-                Genesis.farmer()
+                Genesis.farmer(56,"BlueBird/")
 
                 #lib Code
                 libs = HHdust.NetFallot()
@@ -158,7 +158,7 @@ class CreativBO:
 
                 #Genesis code
                 Genesis = HHdust.NetFallot()
-                Genesis.farmer()
+                Genesis.farmer(101,"BlueBird/")
 
                 #lib Code
                 libs = HHdust.NetFallot()
