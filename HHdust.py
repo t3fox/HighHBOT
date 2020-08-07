@@ -1,31 +1,32 @@
 from hhUI import CreativBO
 import time
 import subprocess
+import shutil
 
 class NetFallot(CreativBO):
 
     def __init__(self):
         pass
 
-    def farmer(self):
+    def farmer(self,nhbo,dirhhbo):
 
         while True:
 
-            for n in range(1,26):
+            for n in range(1,nhbo):
 
-                fileUName = "BlueUser"
+                fileUName = "mrBlue"
                 flfinal = ".py"
                 flnumb = n
 
                 #JefeEscoba = False
-                #dirBO = shutil.copy("theUsr.py","C:/Users/t3fox/Desktop/TomacoFarm/{}{}{}".format(fileUName,flnumb,flfinal))
+                dirBO = shutil.copy("theUsr.py","C:/Users/t3fox/Desktop/IT/{}{}{}{}".format(dirhhbo,fileUName,flnumb,flfinal))
                 print("\n\t----- Generando Nuevo_Usuario -----")
                 time.sleep(.5)
 
             print("\n\n----- Proceso Terminado -----\n\n")
             break
 
-    #Loading lib=Usrs / lib=Service
+
     def newWin(self):
 
     # LibService=C://ruta/libreria.tx
