@@ -16,7 +16,6 @@ def executeBot():
 	email.send_keys(input_email_id)
 	print("Email OK")
 
-
 	password = driver.find_element_by_name('pass')
 
 	password.send_keys(input_passw)
